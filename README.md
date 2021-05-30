@@ -7,5 +7,6 @@ The script creates a folder (.cracked/Fldr_xxx), and starts locating and decrypt
 Decrypted files will be renamed to IMG_xxxxx and moved to .cracked/Fldr_xxx.
 
 # Credits
-->Ninjadoge24
-->onprem
+->Ninjadoge24 
+
+->[onprem](https://github.com/onprem/nqvault-decrypt)
